@@ -1,0 +1,6 @@
+{
+  "name": "AI Student StudyMate",
+  "description": "Smart AI study assistant, quiz generator, note summarizer, flashcard decks, study planner, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
